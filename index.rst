@@ -7,7 +7,7 @@ Download printer drivers from ij.start.canon and then install and set up Canon p
 
 |
 
-.. image:: stars.jpg
+.. image:: click-here.png
     :width: 300px
     :align: center
     :height: 100px
