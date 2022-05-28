@@ -6,13 +6,15 @@ ij.start.canon - ij start canon setup
 Download printer drivers from ij.start.canon and then install and set up Canon printer and scanner device. Whether you are a new or an old canon printer user, visit the official website to download the drivers. Ij.start.canon offers online manuals and recommended functions to provide a better understanding. Here are a few simple steps to set up your new Canon printer.
 
 |
-.. image:: get-started-today.png
-    :width:300px
+
+.. image:: stars.jpg
+    :width: 300px
     :align: center
     :height: 100px
     :alt: ij.start.canon
-    :target: http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com
-
+    :target: http://hp123-setup.s3-website-us-west-1.amazonaws.com
+    
+|
 
 
 *************
